@@ -1,0 +1,9 @@
+.facts-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.facts-list .ui.message {
+  background: #F7F9E9;
+  text-align: justify;
+}
