@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cat-facts-app/static/css/main.79360641.chunk.css",
+    "main.js": "/cat-facts-app/static/js/main.bde71ecb.chunk.js",
+    "main.js.map": "/cat-facts-app/static/js/main.bde71ecb.chunk.js.map",
+    "runtime~main.js": "/cat-facts-app/static/js/runtime~main.a3707873.js",
+    "runtime~main.js.map": "/cat-facts-app/static/js/runtime~main.a3707873.js.map",
+    "static/js/2.7bbd3bb4.chunk.js": "/cat-facts-app/static/js/2.7bbd3bb4.chunk.js",
+    "static/js/2.7bbd3bb4.chunk.js.map": "/cat-facts-app/static/js/2.7bbd3bb4.chunk.js.map",
+    "index.html": "/cat-facts-app/index.html",
+    "precache-manifest.abf81b31bf5d5b1bc8cc5318b1d09296.js": "/cat-facts-app/precache-manifest.abf81b31bf5d5b1bc8cc5318b1d09296.js",
+    "service-worker.js": "/cat-facts-app/service-worker.js",
+    "static/css/main.79360641.chunk.css.map": "/cat-facts-app/static/css/main.79360641.chunk.css.map"
+  }
+}
