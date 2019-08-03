@@ -1,6 +1,10 @@
 ## Cat facts app
 
-Practicing how to write integration tests to test React Redux apps.
+Practicing how to write:
+
+-   integration tests to test React Redux apps.  
+-   custom middlewares with Redux.  
+
 Used cat-facts api (<https://alexwohlbruck.github.io/cat-facts/>) to get the data for my app.
 
 #### App
@@ -13,7 +17,6 @@ Used cat-facts api (<https://alexwohlbruck.github.io/cat-facts/>) to get the dat
 -   react-dom
 -   redux
 -   react-redux
--   redux-promise
 -   axios
 -   jest
 -   enzyme
